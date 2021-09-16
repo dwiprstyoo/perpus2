@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.content-login{
+    width: 50%;
+    margin: auto;
+    border: 1px solid #0ba966;
+    margin-top: 15%;
+    border-radius: 5px;
+}
+.input{
+    width: 98%;
+    height: 20px;
+    border: 1px solid #d9d9d9;
+    border-bottom: 1px solid #0ba966;
+    margin-top: 16px;
+}
+.text-area{
+    width: 98%;
+    height: 70px;
+    border: 1px solid #d9d9d9;
+    border-bottom: 1px solid #0ba966;
+    margin-top: 16px;
+}
+.right{
+    float: right;
+}
+.submit{
+    padding: 12px 14px;
+    background: #fff;
+    color: #0ba966;
+    border-radius: 8px;
+    border: 1px solid #0ba966;
+    margin-top: 16px;
+    transition: .3s;
+}
+.submit:hover{
+    background: #0ba966;
+    color: #fff;
+}
+.kanan{
+    float: right;
+    width: 70%;
+    border: 1px solid #f1f1f1;
+    height: 800px;
+    margin-right: 150px;
+}
+.container{
+    width: auto;
+}
+.kiri{
+    float: left;
+    background: #0ba966;
+    width: 240px;
+    height: 900px;
+}
+.kiri ul{
+    margin-top: 64px;
+}
+.kiri ul a li{
+    display: block;
+    padding: 12px;
+    text-align: center;
+    color: #fff;
+    transition: .2s;
+}
+.kiri ul a{
+    text-decoration: none;
+}
+.kiri ul a li:hover{
+    background: #fff;
+    color: #0ba966;
+}
